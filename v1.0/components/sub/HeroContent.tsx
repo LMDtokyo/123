@@ -76,7 +76,6 @@ const HeroContent = () => {
       >
         <video
           src="/gif.mp4"  // Путь к вашему MP4 в папке public
-          alt="animated GIF"
           className="rounded-lg border border-gray-700"
           autoPlay
           loop
