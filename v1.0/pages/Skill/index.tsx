@@ -12,7 +12,7 @@ export default function Home() {
                     <Hero />
                     <Skills />
                     <Encryption />
-                    <Projects />
+                    <Projects formBackgroundImage="back.png" />
                 </div>
             </main>
         </RootLayout>
